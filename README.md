@@ -16,3 +16,5 @@ main.c: contains the main function where outputs are printed in the terminal and
 # Possible improvements
 
 Currently this game will only continue until there is a win or loss. This could be modified to continue until the player quits or their bank balance goes to 0.
+
+bank balance could also be shown after every roll.
