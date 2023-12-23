@@ -1,6 +1,6 @@
 # PA4-121_craps
 
-A game of craps for CPTS 121 for programming assignment 4. Completed on 10/11/2020.
+A game of craps for CPTS 121 programming assignment 4. Completed on 10/11/2020.
 
 This game of craps is for a single player. The rules are displayed at the beginning of the game. A starting amount is put in by the player along with a bet amount on each roll. If the bet is more than the bank balance the player will need to put in an acceptable bet amount.
 Dice are rolled and summed in order to determine whether the roll won, lost, or neither.
